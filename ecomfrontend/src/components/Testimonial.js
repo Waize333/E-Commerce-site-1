@@ -11,12 +11,12 @@ const Testimonial = () => {
             <div className="text-center flex flex-col items-center gap-1">
               <Image
                 className="rounded-full inline-block"
-                src="/user.jpg"
+                src="/userR.jpg"
                 width={80}
                 height={80}
                 alt="profile"
               />
-              <h2 className="text-gray-500 font-black text-[20px]">Elsa Doe</h2>
+              <h2 className="text-gray-500 font-black text-[20px]">QAZI MUHAMMAD WAIZ</h2>
               <p>CEO & Founder Invision</p>
               <Image
                 className="inline-block py-2"

@@ -33,7 +33,7 @@ const HeaderTop = () => {
             >
               <option value="USD $">USD $</option>
               <option value="EUR €">EUR €</option>
-              <option value="INR ₹">INR ₹</option>
+              <option value="PKR Rs">PKR Rs</option>
             </select>
 
             <select

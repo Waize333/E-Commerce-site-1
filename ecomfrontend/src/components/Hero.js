@@ -17,23 +17,23 @@ const Hero = () => {
   const slideData = [
     {
       id: 0,
-      img: "/banner-1.jpg",
+      img: "/page 1.jpg",
       title: "Trending Item",
-      mainTitle: "WOMEN'S LATEST FASHION SALE",
+      mainTitle: "LATEST FASHION SALE",
       price: "$20",
     },
     {
       id: 1,
-      img: "/banner-2.jpg",
-      title: "Trending Accessories",
-      mainTitle: "MODERN SUNGLASSES",
+      img: "/page 2.jpg",
+      title: "Trending Item",
+      mainTitle: "LATEST FASHION SALE",
       price: "$15",
     },
     {
       id: 2,
-      img: "/banner-3.jpg",
-      title: "Sale Offer",
-      mainTitle: "NEW FASHION SUMMER SALE",
+      img: "/page 3.jpg",
+      title: "Trending Item",
+      mainTitle: "LATEST FASHION SALE",
       price: "$30",
     },
   ];
