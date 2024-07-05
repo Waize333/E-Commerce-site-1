@@ -8,9 +8,7 @@ This repository contains the frontend codebase for an E-Commerce website built w
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -29,5 +27,18 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Waize333/E-Commerce-Site-Frontend.git
+   git clone https://github.com/Waize333/E-Commerce-site-1.git
+   cd E-Commerce-Site-1
+
+Usage
+After completing the installation steps, you can run the development server:
+command:npm run dev
+Open http://localhost:3000 to view it in your browser.
+
+Deployment
+npm run build
+npm run start
+To deploy this project, you can build the production version and deploy it to your preferred hosting platform:
+
+
    cd E-Commerce-Site-Frontend
